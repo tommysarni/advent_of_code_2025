@@ -1,4 +1,4 @@
-const { getLargestVoltage } = require(".");
+const { getLargestVoltage, getLargestVoltage2 } = require(".");
 
 const input = `2221222621311222213132242151213242132162234231144212112222231222222222122221122241223232322424322112
 3543326422247421243461523246251225253652324623123514155262436222322736212622632535261512337153224225
@@ -205,4 +205,5 @@ const input = `22212226213112222131322421512132421321622342311442121122222312222
 const banks = input.split('\n');
 
 // console.log(banks)
-console.log(getLargestVoltage(banks))
+console.log(getLargestVoltage(banks));
+console.log(getLargestVoltage2(banks));
