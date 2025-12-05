@@ -4,4 +4,6 @@
 | :------- | :------: | -------: |
 | Day 1     | ✅   | Light Work    |
 | Day 2   | ✅   | Part 1 Easy! Part 2 Required Help |
-| Day 2   | ✅   | Light Work |
+| Day 3   | ✅   | Light Work |
+| Day 4   | ✅   | No Sweat |
+| Day 5   | ✅   | Been Here Before |
